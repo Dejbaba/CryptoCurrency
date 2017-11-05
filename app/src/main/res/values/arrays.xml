@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cyptocurrency">
+        <item>Select Cryptocurrency</item>
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+    </string-array>
+
+    <string-array name="basecurrency">
+        <item>Select Basecurrency</item>
+        <item>Naira</item>
+        <item>U.S.Dollars</item>
+        <item>British pounds</item>
+        <item>Euro</item>
+        <item>Brazilian Real</item>
+        <item>Albanian Lek</item>
+        <item>Algerian Dinar</item>
+        <item>Angolan Kwanza</item>
+        <item>Argentine Peso</item>
+        <item>Austrian Dollars</item>
+        <item>Pakistan Rupee</item>
+        <item>New zealand Dollars</item>
+        <item>Japanese Yen</item>
+        <item>Indian Rupee</item>
+        <item>Egyptian Pound</item>
+        <item>Canadian Dollars</item>
+        <item>Chilean Peso</item>
+        <item>Danish Krone</item>
+        <item>Croatian Kuna</item>
+        <item>Bulgarian Lev</item>
+        <item>Chinese Yuan</item>
+        <item>Russian Ruble</item>
+    </string-array>
+</resources>
